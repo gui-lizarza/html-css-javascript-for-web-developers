@@ -1,5 +1,5 @@
 # html-css-javascript-for-web-developers
-Assignments for the course HTML, CSS and Javascript for Web Developers
+Assignments for the course HTML, CSS and Javascript for Web Developers (Solutions on branch 'gh-pages').
 
 ### Assignment of Module 2:
 https://gui-lizarza.github.io/html-css-javascript-for-web-developers/module2-solution/
